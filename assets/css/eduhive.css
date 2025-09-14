@@ -2136,13 +2136,15 @@ a:hover .instructor-card-two__social__icon {
   justify-content: center;
   gap: 10px;
   position: absolute;
-  top: 0;
+  bottom: 0;
   left: 50%;
   transform: translateX(-50%);
-  background-color: var(--eduhive-white2, #EDEAF4);
-  border-radius: 0px 0px 20px 20px;
+  background-color: var(--eduhive-white2, #edeaf4);
+  opacity: 50%;
+  border-radius: 20px 20px 0px 0px;
   z-index: 2;
 }
+
 .course-card__ratings--hover {
   padding: 0;
   margin-bottom: 25px;
