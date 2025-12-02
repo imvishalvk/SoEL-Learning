@@ -3993,6 +3993,7 @@ a:hover .instructor-card-two__social__icon {
   align-items: center;
   justify-content: space-between;
   position: relative;
+  margin: 10px;
 }
 @media (max-width: 1199px) {
   .main-header__inner {
